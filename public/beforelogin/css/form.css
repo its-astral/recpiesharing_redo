@@ -1,0 +1,1 @@
+*{box-sizing:border-box;background-color:#f8f8f8}.container-fluid{height:100vh}.container-fluid .container-sm{display:flex;height:500px;align-items:center;justify-content:center;gap:5rem;width:65%;background-color:#fff}.container-fluid .container-sm form .input-content{border:none;margin:35px;display:block;border-bottom:1px solid #000}input:focus{outline:none}

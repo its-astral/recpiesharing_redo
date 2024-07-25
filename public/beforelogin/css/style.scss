@@ -1,0 +1,63 @@
+.navbar {
+    background-color: black;
+}
+.custom-height {
+    img {
+        object-fit: contain;
+        width: 100%;
+    }
+}
+.info {
+    max-width: 450px;
+}
+.info-second {
+    background-color: #f2f2f2;
+}
+.img {
+    height: 350px;
+}
+.card {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 18rem;
+    .card-img-top {
+        img {
+            height: 100px;
+        }
+    }
+}
+.respo 
+{
+    height:450px;
+    .image
+    {
+        height:250px;
+        width: 350px;
+        object-fit: cover;
+    }
+    .main-image {
+        height:350px;
+        object-fit: cover;
+    }
+}
+.img-back1 {
+    background-color: #faebd7;
+    p 
+    {
+       margin:0;
+       font-family: Angelina;
+    }
+}
+.mainpageimg
+{
+    img{
+    height: 500px;
+    object-fit: cover;
+    padding: 0;
+    }
+}
+.fa-utensils{
+    font-size: 40px;
+    color:#fea116;
+}
+
+

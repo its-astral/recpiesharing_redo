@@ -1,0 +1,48 @@
+
+@media screen and (max-width:600px)
+{
+    .img 
+    {
+        height:200px;
+    }
+    .card
+    {
+        width:28rem;
+
+    }
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .respoimg{
+        min-height: 50px;
+        max-height: 100px;
+    }
+}
+    
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .respoimg{
+        min-height: 100px;
+        max-height: 250px;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .respoimg{
+    min-height: 250px;
+    max-height: 400px;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .respoimg{
+        min-height: 500px;
+        max-height: 600px;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}
+

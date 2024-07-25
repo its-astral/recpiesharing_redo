@@ -1,0 +1,37 @@
+.box
+{
+    height: 500px;
+    width: 800px;
+    background: #00cdfb;
+    
+}
+
+.wrapper
+{
+    height: 100vh;
+}
+.inputelement:focus{
+    outline:none;
+    
+}
+.inputelement
+{
+    border:none;
+}
+.loginimg
+{
+    max-height: 400px;
+    min-height: 100px;
+    width: 100%;
+}
+
+
+
+@media screen and (max-width:800px)
+{
+    .loginimg{
+        max-width:300px ;
+        min-height:100px;
+        width: 100%;  
+    }
+}
